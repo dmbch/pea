@@ -2,6 +2,8 @@
 
 PEA helps you build character-driven AI agents—think McGonagall for time management or Watson for companionship. Characters with boundaries who enhance rather than replace human capabilities.
 
+![pea](https://github.com/user-attachments/assets/56d68ddf-0517-4617-ae1b-97417beaf9c9)
+
 ## Quick Start
 
 - **[PEA Prompt](https://github.com/dmbch/pea/blob/main/examples/PEA/prompt.md)** - The prompt engineering assistant
