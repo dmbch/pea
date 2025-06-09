@@ -7,8 +7,8 @@ PEA helps you build character-driven AI agents—think McGonagall for time manag
 ## Quick Start
 
 - **[PEA Prompt](https://github.com/dmbch/pea/blob/main/examples/PEA/prompt.md)** - The prompt engineering assistant
-- **[PEA GPT](https://chatgpt.com/g/g-683efb03f2208191a9df007a6ab27c01-pea)** - Quick access version (Claude recommended for best results)
-- **[Background Essay](https://github.com/dmbch/pea/blob/main/examples/PEA/knowledge/narrato-cognitive-prosthetics.md)** - Why character-driven AI matters
+- **[PEA GPT](https://chatgpt.com/g/g-683efb03f2208191a9df007a6ab27c01-pea)** - Easy access version (Claude recommended for best results)
+- **[Background Essay](https://github.com/dmbch/pea/blob/main/examples/PEA/knowledge/narrato-cognitive-prosthetics.md)** - Why character-driven AI matters (read before building)
 - **[Example Characters](https://github.com/dmbch/pea/tree/main/examples)** - Agents built with PEA
 
 ## Usage
