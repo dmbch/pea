@@ -6,9 +6,10 @@ PEA helps you build character-driven AI agents—think McGonagall for time manag
 
 ## Quick Start
 
-- **[PEA Prompt](https://github.com/dmbch/pea/blob/main/examples/PEA/prompt.md)** - The prompt engineering assistant
+- **[PEA Prompt](https://github.com/dmbch/pea/blob/main/prompt.md)** - The prompt engineering assistant
 - **[PEA GPT](https://chatgpt.com/g/g-683efb03f2208191a9df007a6ab27c01-pea)** - Easy access version (Claude recommended for best results)
-- **[Background Essay](https://github.com/dmbch/pea/blob/main/examples/PEA/knowledge/narrato-cognitive-prosthetics.md)** - Why character-driven AI matters (read before building)
+- **[Background Essay](https://github.com/dmbch/pea/blob/main/knowledge/narrato-cognitive-prosthetics.md)** - Why character-driven AI matters (read before building)
+- **[Background Essay](https://github.com/dmbch/pea/blob/main/knowledge/code-of-conduct.md)** - Principles for all character-driven agents built with PEA
 - **[Example Characters](https://github.com/dmbch/pea/tree/main/examples)** - Agents built with PEA
 
 ## Usage
@@ -19,13 +20,17 @@ PEA helps you build character-driven AI agents—think McGonagall for time manag
 4. Let PEA guide the technical refinement
 5. Receive a structured, reliable character prompt
 
-**Note**: All example prompts require their respective `knowledge` folder files to function properly. Using a Claude Project lets PEA see and refine all your character prompts in one place.
+**Note**: All example prompts require their respective `knowledge` folder files and the code of conduct to work as intended. Using a Claude Project for PEA is highly recommended.
 
 ## Philosophy
 
 - Character emerges through structure, not scripted examples
 - Every instruction must be necessary, testable, and character-specific
 - The character is yours; the implementation is PEA's
+
+## Disclaimer
+
+Example prompts reference copyrighted characters for educational and demonstration purposes only. These materials are provided free and open source for non-commercial use. Users are responsible for ensuring their own implementations comply with applicable laws. Character rights remain with their original holders.
 
 ---
 
